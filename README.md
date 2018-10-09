@@ -274,4 +274,7 @@ There's a lot to think about here, but here are a few takeaways:
 
 Another important takeaway from this lab is a general understanding of the flow of information between the different routes and views of an application. If you're still confused by the flow of signing up and logging in/out, try drawing it out. Can you map out where your web requests go from the point at which you click the "Sign Up" link all the way through until you log out and then attempt to log back in? Give it a shot.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-user-auth/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-user-auth/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG User Authentication in Sinatra</p>
